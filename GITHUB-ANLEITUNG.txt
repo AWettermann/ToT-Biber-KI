@@ -1,0 +1,5 @@
+Vollstaendige Biber + KI-Mission (14 Aufgaben)
+
+GitHub Pages: index.html und den Ordner assets mit start.png und finale.png in das Hauptverzeichnis des Repositories hochladen. Die index.html enthaelt das gesamte Programm inklusive CSS und JavaScript. Weitere Dateien sind nicht erforderlich.
+
+Start: Auf das Bild mit „Los geht’s!“ klicken. Der Fortschritt erscheint erst danach.
