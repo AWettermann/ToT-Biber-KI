@@ -1,0 +1,1 @@
+V4.4: Nur das Startbild, ohne Mission-starten-Button oder Aufgabenzahl. Ein Klick auf das Startbild (insbesondere Los geht’s!) startet die erste Aufgabe. Die index.html enthält alle Styles und das JavaScript. GitHub Pages: index.html ersetzen, assets beibehalten.
